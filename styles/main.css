@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+body
+{
+    background-color:lavender;
+    
+}
+img{
+    width: 320px;
+    height: 340px;
+    object-fit: cover;
+    border-radius: 20px 20px 0px 0px;
+}
+
+header{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   gap:2rem;
+  
+   position: fixed;
+   width: 100%;
+}
+.contenedor
+{
+    margin-top: 13rem;
+}
